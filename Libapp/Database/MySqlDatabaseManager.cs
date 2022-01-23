@@ -10,7 +10,7 @@ namespace Libapp.Database
 {
     public class MySqlDatabaseManager : BaseDatabaseManager
     {
-        MySqlConnection connection = new MySqlConnection("SERVER=trlinux.kayizer.com;DATABASE=puyznet_libapp;UID=puyznet_omer;PWD=Omertemel123.@1;SSL Mode=None");
+        MySqlConnection connection = new MySqlConnection("SERVER=_server; DATABASE=_database; UID=_uid; PWD=_pwd;SSL Mode=None");
         CodeCreator codeCreator = new CodeCreator();
         EncryptClass encryptClass = new EncryptClass();
 
