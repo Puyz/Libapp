@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Libapp", "Libapp\Libapp.csproj", "{65440E1E-6A16-41FE-94A8-D03ACC8A741F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65440E1E-6A16-41FE-94A8-D03ACC8A741F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65440E1E-6A16-41FE-94A8-D03ACC8A741F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65440E1E-6A16-41FE-94A8-D03ACC8A741F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65440E1E-6A16-41FE-94A8-D03ACC8A741F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58041805-FD22-448B-A875-E53E4719B6AB}
+	EndGlobalSection
+EndGlobal
